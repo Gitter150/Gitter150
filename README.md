@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Gitter150
 - 👀 I’m interested in programming and collaborating with others
 - 🌱 I’m currently learning BTECH CSE
-- 💞️ I’m looking to collaborate on projects
+- 💞️ I’m looking forward to learn programming and Computer Science
 - ⚡ Fun fact: Python was invented before Java!
 
 <!---
