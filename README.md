@@ -1,22 +1,31 @@
-## 💻 About Me
+# 🐧 The Penguin Dev
 
-I don’t just write code.  
-I see programming languages as people.
+Hey! I'm a developer who loves clean logic, efficient systems, and goofy penguins.
 
-They're born in labs, nurtured by compilers, raised by communities.  
-They learn, grow, and one day... compile themselves.  
-They build empires, shape the world, then quietly step aside —  
-leaving behind legacy codebases like ghosts in the machine.
+- 🧠 Obsessed with how programming languages grow, evolve, and compile themselves — like people.
+- 🛠️ Tinkering with low-level tools, high-level abstractions, and everything in between.
+- 🐚 Living in terminals, vibing with shells, and keeping things minimal.
+- 🐧 Linux isn't just an OS. It's a philosophy. A lifestyle. A waddle.
 
-I live for this.  
-Low-level control. High-level thinking.  
-Logic over hype. Essence over noise.
+## 🧰 Tools I Use
+- Languages: C++, Python, JavaScript (and whatever else challenges me)
+- Terminal Wizards: WSL, Git Bash, CMD, PowerShell
+- Editors: VS Code gang 🧃
+- OS: Windows (with Linux soul)
 
-If you're here to talk clean code, dirty hacks, or the soul of software —  
-we're already speaking the same language.
+## 🧠 Philosophy
+> _Programming languages are like people: born, nurtured, made independent, and eventually become legends._  
+> I admire the ones that last — and learn from the ones that didn’t.
+
+## 🔧 Projects
+Coming soon... expect things that make you go “wait… you built THAT in a terminal?”
+
+## 💬 About Me
+I treat every line of code like it matters. Because it does.  
+And I believe penguins should be protected — in real life and in the digital world 🐧💙
+
+---
+
+> `sudo apt install penguin-vibes`
 
 
-<!---
-Gitter150/Gitter150 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
